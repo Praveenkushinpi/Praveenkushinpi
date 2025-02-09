@@ -1,5 +1,5 @@
 # 💫 About Me:
-I' am  currently working on my game development skill especially GD Script<br>I' am really obsessed by the designs of modern as well as the 90's website (.com boom)<br>
+I' am  currently working on my game development skill especially GD Script and unity<br>I' am really obsessed by the designs of modern as well as the 90's website (.com boom)<br>
 
 
 # 💻 Tech Stack:
