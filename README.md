@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <h1>👋 Hello, I'm [Your Name]</h1>
+  <h1>👋 Hello, I'm Praveen Kumar</h1>
   <p>🚀 Full-Stack Developer | 🎮 Game Developer</p>
 </div>
 
@@ -36,23 +36,23 @@ I'm a passionate developer who bridges the worlds of web and game development. W
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveenkushinpi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkushinpi&theme=radical" alt="GitHub Streak" />
 </div>
 
 <!-- Activity Graph -->
 ## 📈 Contribution Graph
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Praveenkushinpi&theme=react-dark)](https://github.com/Praveenkushinpi)
 
 <!-- Featured Projects -->
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project1&theme=radical" />
+  <a href="https://github.com/Praveenkushinpi/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkushinpi&repo=project1&theme=radical" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=project2&theme=radical" />
+  <a href="https://github.com/Praveenkushinpi/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkushinpi&repo=project2&theme=radical" />
   </a>
 </div>
 
@@ -75,5 +75,5 @@ I'm a passionate developer who bridges the worlds of web and game development. W
 <div align="center">
   <p>Thanks for visiting! Feel free to reach out for collaborations or just a friendly chat. 😊</p>
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Praveenkushinpi&color=blueviolet)
 </div>
