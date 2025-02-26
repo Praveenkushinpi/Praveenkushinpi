@@ -17,19 +17,7 @@
 
 </div>
 
-```typescript
-const oceanNavigator = {
-  name: "Praveen",
-  class: "Digital Wave Maker",
-  alignment: "Oceanic Sage",
-  specialAbilities: ["Web Development", "Game Development", "Content Creation"],
-  questLog: "Sailing through the digital seas, creating waves of innovation 🌊",
-  powerLevel: "As deep as the ocean",
-  favoriteAnime: ["One Piece", "Blue Submarine No. 6", "Nagi no Asukara"],
-  currentQuest: "Exploring the depths of Full Stack Development",
-  favoriteQuote: "Like the ocean, my code is deep, powerful, and full of mysteries!"
-};
-```
+
 <!-- Latest YouTube Videos -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tropical%20Fish.png" alt="Fish" width="25" height="25" /> Latest Voyages
 <!-- YOUTUBE:START -->
@@ -73,7 +61,7 @@ const oceanNavigator = {
   <img src="https://github-profile-trophy.vercel.app/?username=Praveenkushinpi&theme=algolia&no-frame=true&no-bg=true&row=1" width="100%" alt="Trophy" />
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Praveenkushinpi&show_icons=true&theme=algolia&hide_border=true&custom_title=Ocean%20Navigation%20Stats" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Praveenkushinpi&theme=algolia&hide_border=true" alt="GitHub Streak" />
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Praveenkushinpi)](https://git.io/streak-stats)
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkushinpi&theme=react&bg_color=003554&color=00A8E8&line=0077B6&point=00B4D8&hide_border=true&custom_title=Tides%20of%20Contribution" width="100%" alt="Activity Graph" />
 </div>
