@@ -61,7 +61,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Praveenkushinpi&theme=algolia&no-frame=true&no-bg=true&row=1" width="100%" alt="Trophy" />
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Praveenkushinpi&show_icons=true&theme=algolia&hide_border=true&custom_title=Ocean%20Navigation%20Stats" alt="GitHub Stats" />
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Praveenkushinpi)](https://git.io/streak-stats)
+ 
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveenkushinpi&theme=react&bg_color=003554&color=00A8E8&line=0077B6&point=00B4D8&hide_border=true&custom_title=Tides%20of%20Contribution" width="100%" alt="Activity Graph" />
 </div>
