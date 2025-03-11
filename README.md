@@ -6,8 +6,8 @@
 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dolphin.png" alt="Dolphin" width="25" height="25" /> <strong>Currently Watching:</strong> One Piece 🌊
 
-  [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0396FF&color=0761D1)](https://youtube.com/YOUR_CHANNEL)
-  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0396FF&color=0761D1)](https://youtube.com/YOUR_CHANNEL)
+  [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0396FF&color=0761D1)](https://www.youtube.com/channel/UCfPtnOMCgsIFhhOVOoNenow)
+  [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0396FF&color=0761D1)](https://www.youtube.com/channel/UCfPtnOMCgsIFhhOVOoNenow)
 </div>
 
 <!-- About Me -->
