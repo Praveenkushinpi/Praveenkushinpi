@@ -71,11 +71,11 @@
 <div align="center">
  
   
-  <a href="https://github.com/Praveenkushinpi/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkushinpi&repo=project1&theme=algolia&hide_border=true" />
+  <a href="https://github.com/Praveenkushinpi/My_Way_Of_Learning_Coding_Languages">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkushinpi&repo=My_Way_Of_Learning_Coding_Languages&theme=algolia&hide_border=true" />
   </a>
-  <a href="https://github.com/Praveenkushinpi/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkushinpi&repo=project2&theme=algolia&hide_border=true" />
+  <a href="https://github.com/Praveenkushinpi/TAMASSOULS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praveenkushinpi&repo=TAMASSOULS&theme=algolia&hide_border=true" />
   </a>
 </div>
 
