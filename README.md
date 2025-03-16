@@ -4,7 +4,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0396FF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8C%8A+Dive+into+my+World;%F0%9F%8C%8F+Code+Flows+Like+Water;%F0%9F%8C%8A+Creating+Digital+Waves" alt="Typing SVG" />
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dolphin.png" alt="Dolphin" width="25" height="25" /> <strong>Currently Watching:</strong> One Piece 🌊
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dolphin.png" alt="Dolphin" width="25" height="25" /> <strong>Currently Watching:</strong> Frieren 🌊
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCfPtnOMCgsIFhhOVOoNenow?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0396FF&color=0761D1)](https://www.youtube.com/channel/UCfPtnOMCgsIFhhOVOoNenow)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfPtnOMCgsIFhhOVOoNenow?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0396FF&color=0761D1)](https://www.youtube.com/channel/UCfPtnOMCgsIFhhOVOoNenow)
