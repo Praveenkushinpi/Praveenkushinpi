@@ -8,6 +8,7 @@
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCfPtnOMCgsIFhhOVOoNenow?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0396FF&color=0761D1)](https://www.youtube.com/channel/UCfPtnOMCgsIFhhOVOoNenow)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfPtnOMCgsIFhhOVOoNenow?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0396FF&color=0761D1)](https://www.youtube.com/channel/UCfPtnOMCgsIFhhOVOoNenow)
+ ![Profile Views](https://komarev.com/ghpvc/?username=Praveenkushinpi&color=0396FF&style=for-the-badge)
 
 
 <!-- About Me -->
@@ -100,7 +101,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0396FF,100:0761D1&height=100&section=footer" width="100%" />
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Praveenkushinpi&color=0396FF&style=for-the-badge)
   
   <h4>🌊 "Diving deep into the ocean of code, one commit at a time!"</h4>
   
