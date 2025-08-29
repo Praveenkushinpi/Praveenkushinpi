@@ -1,1 +1,2 @@
-# *it's me i love doing what i love and always try to complete and try my best*
+# *I’m a developer with an artistic vision, focused on performance, and guided by balance.*
+### try some of my project 
