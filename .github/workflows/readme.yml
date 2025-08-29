@@ -3,29 +3,32 @@ name: Update README
 on:
   push:
   schedule:
-    - cron: "0 */1 * * *" # every hour
+    - cron: "0 */1 * * *"
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@master
 
-      - uses: actions-go/go-install@main
+      - uses: 'actions-go/go-install@main'
         id: install
         with:
           module: "github.com/taciturnaxolotl/markscribe@HEAD"
 
-      - name: Generate README
-        run: ${{ steps.install.outputs.install-path }} -write README.md templates/README.md.tpl
+      - name: generate readme
         env:
           GITHUB_TOKEN: ${{ secrets.NEW_GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_URL: ${{ secrets.WAKATIME_URL }}
+        run: ${{ steps.install.outputs.install-path }} -write README.md templates/README.md.tpl
 
       - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: "Update generated README"
+          commit_message: Update generated README
           branch: main
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
