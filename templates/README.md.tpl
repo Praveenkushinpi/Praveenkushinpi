@@ -1,23 +1,25 @@
-# Hi, I'm Praveen 👋
+### ✌️ Hi! I'm a 17-year-old homeschooled programmer/wannabe hardware guy!
 
-## 🚀 About Me
-- Developer with an artistic vision who prioritizes **performance** and believes in **balance**.
-- Contributor at [HackClub](https://hackclub.com/), supporting the non-profit developer community.
-- Passionate about coding, building scalable systems, and meaningful design.
+When not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [**_`The Wild Ramblings of Kieran`_**](https://youtube.com/@kieran.rambles).
 
----
+#### 👷 The latest repos I've pushed to
+{{range recentContributions 8}}
+- [`{{.Repo.Name}}`]({{.Repo.URL}}) - _"{{.Repo.Description}}"_ **({{humanize .OccurredAt}})**
+{{- end}}
 
-## 📊 Coding Stats (WakaTime)
-{{ wakatimeData }}
+#### ⌨️ My latest projects
+{{range recentCreatedRepos "praveenkushinpi" 4}}
+- [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
+{{- end}}
 
 
----
+#### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats from the last week
 
-## 🛠️ Tech & Tools
-- Languages: JavaScript, TypeScript, Python, C++
-- Frameworks: React, Next.js, Node.js, Godot, Unity
-- Tools: Git, Docker, Firebase, Vercel
-- hi
----
+```text
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
-✨ _Generated automatically with [markscribe](https://github.com/taciturnaxolotl/markscribe)_
+Total: {{ wakatimeData.HumanReadableTotal }}
+```
+
+
+_readme auto updates on the hour via [**`praveenkushinpi/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
