@@ -17,7 +17,7 @@
 - Languages: JavaScript, TypeScript, Python, C++
 - Frameworks: React, Next.js, Node.js, Godot, Unity
 - Tools: Git, Docker, Firebase, Vercel
-
+- hi
 ---
 
 ✨ _Generated automatically with [markscribe](https://github.com/taciturnaxolotl/markscribe)_
