@@ -15,7 +15,7 @@ jobs:
       - name: Run markscribe
         uses: charmbracelet/readme-scribe@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.NEW_GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         with:
           template: "templates/github-profile.tpl"
