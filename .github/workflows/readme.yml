@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run markscribe
-        uses: charmbracelet/readme-scribe@main
+        uses: charmbracelet/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.NEW_GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
