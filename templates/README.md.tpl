@@ -8,7 +8,8 @@
 ---
 
 ## 📊 Coding Stats (WakaTime)
-{{ wakatimeData . "last_7_days" }}
+{{ wakatimeData }}
+
 
 ---
 
